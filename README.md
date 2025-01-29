@@ -6,8 +6,9 @@
 
 <h3 align="left"> 🔊 Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/H0AMSI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="H0AMSI" height="30" width="40" /></a>
+<a href="https://www.t.me/H0AMSI" target="_blank"><img src="https://img.shields.io/badge/Telegram-Contact_Me-blue?style=for-the-badge&logo=Telegram">
 </p>
+<a href="https://sourceforge.net/projects/rafi/files/" target="_blank"><img src="https://img.shields.io/badge/sourceforge-profile-orange?style=for-the-badge&logo=sourceforge">
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=muhammadrafiasyddiq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
